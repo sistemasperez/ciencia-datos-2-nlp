@@ -1,28 +1,28 @@
 text,real,predicted,category
-@united I forgot that Intl flights out of LAX don't go from Intl Terminal! Easiest re-check in ever! woo!,positive,neutral,REVISAR
-@SouthwestAir Customer Centricity is knowing people #ANAMarketers,positive,negative,REVISAR
-"@SouthwestAir That was Chantilly, Paris, France.",neutral,positive,REVISAR
-@united Thanks!  Good to know.,neutral,positive,REVISAR
-@JetBlue what are the chances of one of your flights leaving at 6am out of Newark nj being Cancelled Flightled tomorrow?,neutral,negative,REVISAR
-@SouthwestAir thanks for the response - flight time has passed - rebooked now,negative,positive,REVISAR
-@united Did somebody say flight upgrade?,negative,neutral,REVISAR
-@JetBlue I shouldn't be made to feel like a criminal because I want to sit near my 5 year old on a flight. #jetblue http://t.co/qgtCao1J2U,negative,neutral,REVISAR
-"@united i understand, thanks",neutral,positive,REVISAR
-@united You delayed a connection for customer service today now I'll be able to pay my final respects to a dear family member. Thank you :),positive,negative,REVISAR
-@USAirways and @AmericanAir aren't as merged as the marketing departments would have us believe. Maybe @Delta or @united can get me home?,neutral,negative,REVISAR
-@SouthwestAir can i get tiks for #DestinationDragons omg id love to! Plz 😱❤️im dying,positive,neutral,REVISAR
-"@SouthwestAir yes, thank you. Just sent DM.",neutral,positive,REVISAR
-@SouthwestAir it's ok...I forgive you guys.,negative,positive,REVISAR
-@united the os isn't controlled by me but rather @VerizonWireless .  App is new.,neutral,negative,REVISAR
-@SouthwestAir  Just picked up my bag at SEATAC all the clothes are soaking wet... #bagawim http://t.co/nGxAl9OmL6,negative,positive,REVISAR
-"@united we had a wonderful flight attendant named Leah that was with us from lga to den, then den to anchorage!",positive,negative,REVISAR
-"😢😢 RT“@JetBlue: @Peaches275 Oh no! Unfortunately, the code must be entered at the time of purchase in order to qualify for the points.”",neutral,negative,REVISAR
-@JetBlue weather where?  It's 60 in SFO and flight 834 is still on time to boston.,neutral,negative,REVISAR
-@united what is your plan to reduce delays?,neutral,negative,REVISAR
+@united I forgot that Intl flights out of LAX don't go from Intl Terminal! Easiest re-check in ever! woo!,positive,neutral,Exclamacion_Informal
+@SouthwestAir Customer Centricity is knowing people #ANAMarketers,positive,negative,Jerga_Corporativa
+"@SouthwestAir That was Chantilly, Paris, France.",neutral,positive,Dato_Geografico_Neutro
+@united Thanks!  Good to know.,neutral,positive,Cortesia_Protocolar
+@JetBlue what are the chances of one of your flights leaving at 6am out of Newark nj being Cancelled Flightled tomorrow?,neutral,negative,Pregunta_Operativa
+@SouthwestAir thanks for the response - flight time has passed - rebooked now,negative,positive,Cortesia_en_Reclamo
+@united Did somebody say flight upgrade?,negative,neutral,Ironia_o_Expectativa
+@JetBlue I shouldn't be made to feel like a criminal because I want to sit near my 5 year old on a flight. #jetblue http://t.co/qgtCao1J2U,negative,neutral,Metafora_Emocional
+"@united i understand, thanks",neutral,positive,Acuse_Recibo_Ambiguedad
+@united You delayed a connection for customer service today now I'll be able to pay my final respects to a dear family member. Thank you :),positive,negative,Termino_Negativo_en_Elogio
+@USAirways and @AmericanAir aren't as merged as the marketing departments would have us believe. Maybe @Delta or @united can get me home?,neutral,negative,Critica_Sutil_Aerolineas
+@SouthwestAir can i get tiks for #DestinationDragons omg id love to! Plz 😱❤️im dying,positive,neutral,Jerga_Emojis_Exageracion
+"@SouthwestAir yes, thank you. Just sent DM.",neutral,positive,Cortesia_Tramite
+@SouthwestAir it's ok...I forgive you guys.,negative,positive,Perdon_tras_Incidencia
+@united the os isn't controlled by me but rather @VerizonWireless .  App is new.,neutral,negative,Aclaracion_Tecnica
+@SouthwestAir  Just picked up my bag at SEATAC all the clothes are soaking wet... #bagawim http://t.co/nGxAl9OmL6,negative,positive,Sentimiento_Implicito
+"@united we had a wonderful flight attendant named Leah that was with us from lga to den, then den to anchorage!",positive,negative,Coocurrencia_Aeropuertos
+"😢😢 RT“@JetBlue: @Peaches275 Oh no! Unfortunately, the code must be entered at the time of purchase in order to qualify for the points.”",neutral,negative,Retweet_Informativo
+@JetBlue weather where?  It's 60 in SFO and flight 834 is still on time to boston.,neutral,negative,Pregunta_Retorica
+@united what is your plan to reduce delays?,neutral,negative,Consulta_Politica_Operativa
 @AmericanAir I was on a flight for tomorrow and my reservation is coming up.  Help me!,neutral,negative,REVISAR
 "@VirginAmerica has getaway deals through May, from $59 one-way. Lots of cool cities http://t.co/QDlJHslOI5 #CheapFlights #FareCompare",neutral,positive,REVISAR
 @AmericanAir: my brother's flight into DFW was Cancelled Flightled yesterday. Are you flying from ONT to DFW today?,negative,neutral,REVISAR
-@USAirways Thanks again for ruiningmy vacation.  You all are the best for this.  Could not have done it without you.,negative,positive,REVISAR
+@USAirways Thanks again for ruiningmy vacation.  You all are the best for this.  Could not have done it without you.,negative,positive,Sarcasmo_Puro
 "@SouthwestAir Today is going to be the day, I can feel it!  Thank y'all for your support throughout! We're coming home Nashville! #Octavia",neutral,positive,REVISAR
 @SouthwestAir @dultch97 that's horse radish 😤🐴,negative,neutral,REVISAR
 @SouthwestAir now flight is book and I have to fly standby if they will allow me to check in before the flight takes off,neutral,negative,REVISAR
