@@ -1,3 +1,3 @@
 name,url,license,language,rows,target,decision
-Candidate_A,,,,,,pending
-Candidate_B,,,,,,pending
+Mental Health Corpus,https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus,CC0: Public Domain,en,27977,status,rejected
+Twitter US Airline Sentiment,https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment,CC BY-NC-SA 4.0,en,14640,airline_sentiment,approved

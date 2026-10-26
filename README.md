@@ -11,6 +11,7 @@ Este proyecto implementa un flujo reproducible de Procesamiento de Lenguaje Natu
 
 * **Dataset adoptado:** [Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) (CrowdFlower / Kaggle).
 * **Ficha Técnica Completa:** Consulte [docs/DATASET_CARD.md](docs/DATASET_CARD.md) para el diccionario de variables, licencias, calidad de datos y consideraciones éticas.
+* **Dictamen del Estudiante:** Consulte [docs/DICTAMEN_DATASET.md](docs/DICTAMEN_DATASET.md) para la evaluación formal, justificación de selección frente a candidatos y riesgos identificados.
 * **Resumen de Datos Auditados (`scripts/audit_data.py`):**
   * **Registros totales:** 14,640 filas y 15 columnas.
   * **Integridad (SHA-256):** `ea94b23f41892b290dec3330bb8cf9cb6b8bc669eaae5f3a84c40f7b0de8f15e`.
